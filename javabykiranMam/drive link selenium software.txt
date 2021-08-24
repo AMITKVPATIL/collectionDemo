@@ -1,0 +1,12 @@
+https://drive.google.com/u/0/uc?id=1TGpH1qO83wxzUv0NqHXhAqNpA7NUmZvh&export=download
+
+
+
+
+https://drive.google.com/file/d/1TGpH1qO83wxzUv0NqHXhAqNpA7NUmZvh/view
+
+//selenium driver
+https://selenium-release.storage.googleapis.com/3.4/selenium-server-standalone-3.4.0.jar
+
+//eclips downloads
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe
